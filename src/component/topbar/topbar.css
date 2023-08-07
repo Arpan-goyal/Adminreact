@@ -1,0 +1,55 @@
+.topbar{
+    width: 100%;
+    height: 60px;
+    background-color:rgba(250, 246, 245, 0.885);
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+.topbarWrapper{
+    height: 100%;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-size:xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+.topRight{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.topbarIconContainer{
+    position: relative;
+    cursor: pointer;
+    margin: 0px 7px;
+    color: #555;
+}
+
+.topiconsbadge{
+    width: 15px;
+    height: 15px;
+    position:absolute;
+    top:-5px;
+    right: 1px;
+    background-color: rgb(234, 18, 18);
+    border: none;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 13px;
+}
+
+.topAvatar{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 50%;
+}
