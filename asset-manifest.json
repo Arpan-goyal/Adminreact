@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/postversebackend%20/static/css/main.48bdb1e3.css",
+    "main.js": "/postversebackend%20/static/js/main.f73837ba.js",
+    "index.html": "/postversebackend%20/index.html",
+    "main.48bdb1e3.css.map": "/postversebackend%20/static/css/main.48bdb1e3.css.map",
+    "main.f73837ba.js.map": "/postversebackend%20/static/js/main.f73837ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48bdb1e3.css",
+    "static/js/main.f73837ba.js"
+  ]
+}
